@@ -1,0 +1,26 @@
+﻿  Main.cpp
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(10,39): error C2065: 'ScreenTS': undeclared identifier
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(10,32): error C2923: 'std::vector': 'ScreenTS' is not a valid template type argument for parameter '_Ty'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(10,32): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(413): message : see declaration of 'std::vector'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(10,50): error C2955: 'std::vector': use of class template requires template argument list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(413): message : see declaration of 'std::vector'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(20,17): error C2065: 'ScreenTS': undeclared identifier
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(20,10): error C2923: 'std::vector': 'ScreenTS' is not a valid template type argument for parameter '_Ty'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(20,10): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(413): message : see declaration of 'std::vector'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(20,36): error C3861: 'ScreenTS': identifier not found
+  ScreenTS.cpp
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(10,39): error C2065: 'ScreenTS': undeclared identifier
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(10,32): error C2923: 'std::vector': 'ScreenTS' is not a valid template type argument for parameter '_Ty'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(10,32): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(413): message : see declaration of 'std::vector'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(10,50): error C2955: 'std::vector': use of class template requires template argument list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(413): message : see declaration of 'std::vector'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(20,17): error C2065: 'ScreenTS': undeclared identifier
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(20,10): error C2923: 'std::vector': 'ScreenTS' is not a valid template type argument for parameter '_Ty'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(20,10): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(413): message : see declaration of 'std::vector'
+D:\C++\prmrSec7\prmrSec7\Window_mgr.h(20,36): error C3861: 'ScreenTS': identifier not found
+  Window_mgr.cpp
+  Generating Code...
